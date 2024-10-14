@@ -1,0 +1,6 @@
+https://pypi.org/project/pymavlink/
+
+1. Install Python 3.7 or greater (I used Python 3.12 64-bit)
+2. Install PyCharm Community Edition
+3. Using pip, install pymavlink by typing the command ' pip install pymavlink ' into a Command Prompt, terminal, or Powershell window (Win10)
+4. Using pip, install python3 -m pip install -r pymavlink/requirements.txt (you will need to open a terminal/Powershell from the /tchs-aero-groundcontrol/mavlink directory)
